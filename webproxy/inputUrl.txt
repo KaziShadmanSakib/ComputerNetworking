@@ -1,0 +1,1 @@
+"GET http://neverssl.com HTTP/1.1\r\nHost: neverssl.com\r\n\r\n"

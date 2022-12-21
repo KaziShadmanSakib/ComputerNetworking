@@ -1,0 +1,26 @@
+*ping
+- ping 118.179.180.1 -c10 (command)
+- man ping (command)
+
+*ifconfig
+-inet (describe) inet (TCP/IP, default) Internet protocol family
+-inet6 (describe) IPv6  Internet protocol version 6 family
+-ether (describe) the word ether is the hardware class, and the value following that is the hardware address.
+-RX, TX (describe) RX bytes is a total number of bytes received over interface. TX bytes is a total number of bytes transmitted over interface.
+-man ifconfig (command)
+
+*traceroute
+- traceroute www.google.com (command)
+- man traceroute (command)
+
+*netstat
+
+
+Questions:
+
+1**what does individual tools do (description)
+**syntax
+**example
+**not more than 2 pages
+
+2**copy your output and describe the whole output(traceroute www.google.com)
