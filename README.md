@@ -1,4 +1,4 @@
-"# ComputerNetworking" 
+# ComputerNetworking
 
 This repository stores the assignments of course CSE-3101, Computer Networking. The assignments includes, 
 
